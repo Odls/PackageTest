@@ -1,0 +1,15 @@
+{
+  "name": "com.odls.plugintemplate",
+  "version": "1.0.0",
+  "displayName": "Plugin Template",
+  "description": "Plugin Template",
+  "unity": "2018.4",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "keywords": [
+  ],
+  "author": {
+    "name": "Odls",
+    "email": "odlscheng@igs.com.tw"
+  }
+}
